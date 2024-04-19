@@ -1,6 +1,6 @@
 # Task1 | Calculator
 
-This Project is made under Oasis Infobyte Web Development internship program by Abhyuday Pratap Singh.
+This Project is made under Oasis Infobyte Web Development internship program by AKhilesh.
 
 # Features
  - Addition, Subtraction,multiplication and division operations
